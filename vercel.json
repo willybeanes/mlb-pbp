@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://baseball-hopper.vercel.app/pbp",
+      "destination": "https://baseballhopper.com/pbp",
       "permanent": false
     }
   ]
